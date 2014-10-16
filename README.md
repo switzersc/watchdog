@@ -12,7 +12,7 @@ and click on the http://hello-zetta.herokuapp.com/ server to see your server and
 
 You can change the web server you link to in the server.js file with the `.link()` function.
 
-PS. You will need an Arduino LED connected to your computer at the moment, or you can mock one out.
+PS. You will need an Arduino LED connected to your computer at the moment, or use the led_driver.js mock driver (from the zettajs's [zetta-heartbeat-sample repo](https://github.com/zettajs/zetta-heartbeat-sample)), or you can mock one out yourself.
 
 ## Contributions
 
