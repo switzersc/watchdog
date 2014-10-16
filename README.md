@@ -12,6 +12,8 @@ and click on the http://hello-zetta.herokuapp.com/ server to see your server and
 
 You can change the web server you link to in the server.js file with the `.link()` function.
 
+PS. You will need an Arduino LED connected to your computer at the moment, or you can mock one out.
+
 ## Contributions
 
 Please fork and submit a pull request. Bruno likes new friends :)
